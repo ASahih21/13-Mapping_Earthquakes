@@ -9,7 +9,7 @@ Another widget, at the top right of the screen, offers a user options to customi
 Finally, a user can customize this display by hovering over the option widget, right side of the screen, and view minor an/or major earthquakes and the tectonic plates.
 
 ## Technologies used:
-- Javascript, HTML, CSS, Visual Studio Code, Github desktop, D3, and Leaflet v1.7.1
+- Javascript, HTML, CSS, Visual Studio Code, Github desktop, D3, and Leaflet 
 
 ## Web resources used:
 - Styles APIs from mapbox.com,
